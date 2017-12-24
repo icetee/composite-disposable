@@ -7,7 +7,7 @@ Inspired https://github.com/atom/event-kit. Use default event handler in Node.js
 
 ```javascript
 const { EventEmitter } = require('events');
-const CompositeDisposable = require('composite-disposable');
+const { CompositeDisposable } = require('composite-disposable');
 
 
 class User {
