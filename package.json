@@ -1,0 +1,18 @@
+{
+  "name": "composite-disposable",
+  "version": "1.0.0",
+  "author": "Tamás András Horváth <htomy92@gmail.com>",
+  "description": "Simple library for implementing and consuming evented APIs",
+  "main": "./lib/index.js",
+  "keywords": [
+    "composite",
+    "disposable",
+    "event",
+    "subscription"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/icetee/composite-disposable.git"
+  }
+}
